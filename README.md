@@ -1,5 +1,10 @@
 # 📊 Retail Sales Performance Dashboard | Excel
 
+## 📊 Dashboard Preview
+
+![Retail Sales Performance Dashboard](dashboard-preview.png)
+
+
 ## 📌 Project Overview
 This project analyzes retail sales data using Microsoft Excel and presents the results through an interactive sales performance dashboard.
 
